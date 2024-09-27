@@ -1,0 +1,4 @@
+At first it was hard to get used to the new interface after fully working by myself. I watched some titorial videos about git hub and lab helped me significantly. 
+Git hub was helpful to work as a group as i can see the changes made by my groupmates which makes everyhing much easier. I think the fact that we can open projects 
+,and commit, and see the older commits can be life saving, while working on more serious projects in future. I believe getting used to git hub will not be hard and 
+I will be able to be more comfortable to both work as a group and by myself for my projects.
